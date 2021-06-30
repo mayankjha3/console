@@ -12,5 +12,5 @@ console.log(full_name);
 
  var a = 10;
  var b = 5;
- var c = a + b;
- console.log(c);
+ var c = b.concat(a);
+console.log(c);
